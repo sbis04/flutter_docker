@@ -1,6 +1,6 @@
 # Dockerizing Flutter apps
 
-[Imgur](https://i.imgur.com/wy6vrUU.png)
+![Flutter Docker cover](https://i.imgur.com/wy6vrUU.png)
 
 [Docker](https://www.docker.com/) helps to **simplify** and **accelerate** the development workflow, while giving the freedom to choose any **tool** and maintain different development **environments** for each project.
 
